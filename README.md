@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-<!--
-**hjgador/hjgador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - Full Name: Hester Jane Gador
 - OPS445 Section: OPS455 NDD
+  
+<!--
+**hjgador/hjgador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
